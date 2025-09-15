@@ -8,7 +8,7 @@ MindVL undergoes a three-phase training process, namely the warm-up phase, multi
 Notably, despite using about 1/10 of the training data required by Qwen2.5-VL, MindVL achieves performance on par with Qwen2.5-VL in evaluations of general multimodal understanding and document/table comprehension. Beyond overall scores, MindVL also delivers leading performance in OCR assessments.
 
 <p align="center">
-    <img src="images/benchmark.png" width="95%"> <br>
+    <img src="images/benchmark.png" width="70%"> <br>
     Benchmark performance of MindVL and its counterparts.
 </p>
 
