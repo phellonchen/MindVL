@@ -18,3 +18,13 @@ Notably, despite using about 1/10 of the training data required by Qwen2.5-VL, M
     <img src="images/mllm_figure.jpg" width="80%"> <br>
     The Overall Architecture of MindSpeed-MLLM and Its Relationship with Other MindSpeed Frameworks.
 </p>
+
+
+If you find MindVL useful for your your research and applications, please cite using this BibTeX:
+```
+@article{chen2025mindvl,
+  title={MindVL: Towards Efficient and Effective Training of Multimodal Large Language Models on Ascend NPUs },
+  author={Chen, Feilong and Liu, Yijiang and Huang, Yi and Wang, Hao and Tian, Miren and Yu, Ya-Qi and Liao, Minghui and Wu, Jihao},
+  year={2025}
+}
+```
