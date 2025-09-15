@@ -15,6 +15,6 @@ Notably, despite using about 1/10 of the training data required by Qwen2.5-VL, M
 ## Overview of MindSpeed-MLLM
 
 <p align="center">
-    <img src="images/mllm_figure.jpg" width="95%"> <br>
+    <img src="images/mllm_figure.jpg" width="80%"> <br>
     The Overall Architecture of MindSpeed-MLLM and Its Relationship with Other MindSpeed Frameworks.
 </p>
