@@ -20,7 +20,7 @@ Notably, despite using about 1/10 of the training data required by Qwen2.5-VL, M
 </p>
 
 
-If you find MindVL useful for your your research and applications, please cite using this BibTeX:
+If you find MindVL useful for your research and applications, please cite using this BibTeX:
 ```
 @article{chen2025mindvl,
   title={MindVL: Towards Efficient and Effective Training of Multimodal Large Language Models on Ascend NPUs },
