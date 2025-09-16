@@ -25,6 +25,7 @@ If you find MindVL useful for your your research and applications, please cite u
 @article{chen2025mindvl,
   title={MindVL: Towards Efficient and Effective Training of Multimodal Large Language Models on Ascend NPUs },
   author={Chen, Feilong and Liu, Yijiang and Huang, Yi and Wang, Hao and Tian, Miren and Yu, Ya-Qi and Liao, Minghui and Wu, Jihao},
+  journal={arXiv preprint arXiv:2509.11662},
   year={2025}
 }
 ```
